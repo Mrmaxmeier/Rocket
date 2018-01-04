@@ -37,7 +37,7 @@ ordermap = "0.3"
 isatty = "0.1"
 
 [dependencies.cookie]
-git = "https://github.com/alexcrichton/cookie-rs"
+git = "https://github.com/Mrmaxmeier/cookie-rs"
 rev = "62eb2a4909ce55e2ca92e5d5bfc8af9c6833e861"
 features = ["percent-encode", "secure"]
 
